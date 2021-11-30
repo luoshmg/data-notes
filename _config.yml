@@ -1,0 +1,9 @@
+# Site setings
+title: Great New Title
+author:
+  name: LUO Shiming
+  email: luoshmg@qq.com
+description: "Great site about me on GitHub-Pages."
+
+# Build settings
+remote_theme: jekyll/minima
